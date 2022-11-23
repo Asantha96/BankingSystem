@@ -1,6 +1,6 @@
 class Account{
-    int balance;
+    float balance;
     int id;
-    String userId;
+    int userId;
     
 }
